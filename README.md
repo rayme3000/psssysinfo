@@ -10,4 +10,4 @@
 - Organizes and presents information in a readable format.
 
 **Script Example:**
-git clone <"H:\My Drive\Cloud Journal\Powershell\Powershell Portfolio Projects\System Information Script.ps1">
+![[Image Description]([https://github.com/yourusername/your-repo/raw/main/path/to/your/image.jpg](https://wilmingtoncares.com/wp-content/uploads/2023/08/SysInfo-Example-1.jpg](https://wilmingtoncares.com/wp-content/uploads/2023/08/SysInfo-Example-1.jpg)https://wilmingtoncares.com/wp-content/uploads/2023/08/SysInfo-Example-1.jpg))
