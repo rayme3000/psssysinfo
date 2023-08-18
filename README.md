@@ -10,4 +10,4 @@
 - Organizes and presents information in a readable format.
 
 **Script Example:**
-![VMs NSG](https://user-images.githubusercontent.com/59034949/210693949-4308af3f-306f-467f-9444-6cb044de2357.jpg)
+![VMs NSG](https://wilmingtoncares.com/wp-content/uploads/2023/08/SysInfo-Example-1.jpg)https://wilmingtoncares.com/wp-content/uploads/2023/08/SysInfo-Example-1.jpg)
