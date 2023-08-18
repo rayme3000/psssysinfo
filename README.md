@@ -1,4 +1,4 @@
-## System Information Script
+## System Information Script (PowerShell)
 
 **Description:** A PowerShell script that gathers and displays essential system information, including operating system version, processor details, memory, disk space, etc.
 
